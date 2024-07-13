@@ -7,4 +7,4 @@ university
 ### Work Experience
 BI Developer
 - Project 1
-- Project 2
+- Project 2 
