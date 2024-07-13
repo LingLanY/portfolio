@@ -1,5 +1,5 @@
-# portfolio
 # Linglan Yang
+# Project instruction
 
 ### Education
 university
