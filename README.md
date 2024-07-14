@@ -22,7 +22,7 @@ Please click [here](https://app.powerbi.com/view?r=eyJrIjoiMmRmN2FmZDQtMzc2YS00M
 ![Power BI](PBI.jpg)
 
 ### Chat with PDF 
-Chatbot to read your own PDF file. Empower user to chat with their own data and capture insights from the documents efficiently by creating user’ own knowledge base and leveraging LLM’s language capability to allow user interact with the knowledge base. Python coding with Streamlit, Pypdf2, Langchain, Faiss-cpu, openAI.
+Chatbot to read your own PDF file. Empower user to chat with their own data and capture insights from the documents efficiently by creating user’ own knowledge base and leveraging LLM’s language capability to allow user interact with the knowledge base. Python coding with Streamlit, Pypdf2, Langchain, Faiss-cpu, openAI. 
 
 Please click [here](https://github.com/LingLanY/AI) to access the gihub repository.  Project instruction can also been <a href="Chat with PDF.pptx" download>Download </a>.
 
