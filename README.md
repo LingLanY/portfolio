@@ -1,7 +1,7 @@
 # Linglan Yang
 
 # Technical Skills
-- Data Engineer, Data Scientist, Data Analytics, Data Visualization
+- BI developer, Data Engineer, Data Scientist, Data Analytics, Data Visualization
 - Azure Synapse, Azure Data Factory, SQL Server, SSIS, SSRS, SSAS, Python, Power BI.
 
 # Project instruction
