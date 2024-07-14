@@ -11,6 +11,7 @@ The projct is to compare several classification models that can assist with pred
 the Classification approaches includes logistic regression, random forests, support vector machines and neural networks (Tensorflow). 
 
 Please click [here](https://github.com/LingLanY/Machine-Learning/blob/main/Peer-to-peer%20Lending%20Default%20Risk.ipynb) to view the code.
+
 ![loan](paying-off-a-loan-early.jpg)
 
 
