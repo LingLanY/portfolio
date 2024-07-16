@@ -7,8 +7,7 @@
 # Project instruction
 
 ### Peer-to-peer Lending Default Risk
-The projct is to compare several classification models that can assist with predicting whether a client will default on their loan, 
-the classification approaches include logistic regression, random forests, support vector machines and neural networks (Tensorflow). 
+The projct is to compare several classification models that can assist with predicting whether a client will default on their loan, such as logistic regression, random forests, support vector machines and neural networks (Tensorflow). The project also demos machine learning project steps such as exploratory data analysis, feature engineering, model training, corss-validation, hyperparameter tuning as well as model evaluation and selection, etc.
 
 Please click [here](https://github.com/LingLanY/Machine-Learning/blob/main/Peer-to-peer%20Lending%20Default%20Risk.ipynb) to view the code.
 
