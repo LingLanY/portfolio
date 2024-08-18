@@ -26,3 +26,11 @@ Chatbot to read your own PDF file. Empower user to chat with their own data and 
 Please click [here](https://github.com/LingLanY/AI) to access the gihub repository.  Project instruction can also been <a href="Chat with PDF.pptx" download>Download </a>.
 
 ![chatBot](Chat with PDF S.jpg)
+
+
+### Customer Segmentation
+Customer segmentation is important to better understand customer groups, shopping desires and trends aiming to align relevant strategies and tactics to meet their distinctive needs and thus resulting in maximized customer loyalty and profits. The notebook is for clustering model comparison with K-Means, DBSCAN, etc.
+
+Please click [here](https://github.com/LingLanY/Machine-Learning/blob/main/Customer%20Segmentation.ipynb) to view the code.
+
+![Customer Segmentation](Customer Segmentation.png)
