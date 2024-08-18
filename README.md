@@ -20,13 +20,6 @@ The report is to demo frequently asked reporting tricks such as popup filter pan
 Please click [here](https://app.powerbi.com/view?r=eyJrIjoiMmRmN2FmZDQtMzc2YS00MTExLTgyZTQtYzFkNWFkOTE3ZGQ1IiwidCI6IjA3ZWI2YmFlLWQ1MWEtNDBhYS1iZDMxLTIzMTE4NDdhM2I2ZiIsImMiOjJ9) to view the report.
 ![Power BI](PBI.jpg)
 
-### Chat with PDF 
-Chatbot to read your own PDF file. Empower user to chat with their own data and capture insights from the documents efficiently by creating user’ own knowledge base and leveraging LLM’s language capability to allow user interact with the knowledge base. Python coding with Streamlit, Pypdf2, Langchain, Faiss-cpu, openAI. 
-
-Please click [here](https://github.com/LingLanY/AI) to access the gihub repository.  Project instruction can also been <a href="Chat with PDF.pptx" download>Download </a>.
-
-![chatBot](Chat with PDF S.jpg)
-
 
 ### Customer Segmentation
 Customer segmentation is important to better understand customer groups, shopping desires and trends aiming to align relevant strategies and tactics to meet their distinctive needs and thus resulting in maximized customer loyalty and profits. The notebook is for clustering model comparison with K-Means, DBSCAN, etc.
@@ -34,3 +27,12 @@ Customer segmentation is important to better understand customer groups, shoppin
 Please click [here](https://github.com/LingLanY/Machine-Learning/blob/main/Customer%20Segmentation.ipynb) to view the code.
 
 ![Customer Segmentation](Customer Segmentation.png)
+
+
+### Chat with PDF 
+Chatbot to read your own PDF file. Empower user to chat with their own data and capture insights from the documents efficiently by creating user’ own knowledge base and leveraging LLM’s language capability to allow user interact with the knowledge base. Python coding with Streamlit, Pypdf2, Langchain, Faiss-cpu, openAI. 
+
+Please click [here](https://github.com/LingLanY/AI) to access the gihub repository.  Project instruction can also been <a href="Chat with PDF.pptx" download>Download </a>.
+
+![chatBot](Chat with PDF S.jpg)
+
