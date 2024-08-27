@@ -17,7 +17,7 @@ Please click [here](https://github.com/LingLanY/Machine-Learning/blob/main/Peer-
 ### Power BI Demo Report
 The report is to demo frequently asked reporting tricks such as popup filter panel, page navigation, highlight chart with max/min value, context calculation in hierarchy scopes, Top sales items VS Others, dynamic visual metrics; title; URL; font; icon, etc. To support these context calculation and user interactions, about 40 DAX measures are created with usage of 40+ different DAX functions such as Calculate, Rankx, Isinscope, Lookupvalue, Selectedvalue, Switch, Isonorafter, Removefilters, etc. 
 
-Please click [here](https://app.powerbi.com/view?r=eyJrIjoiMmRmN2FmZDQtMzc2YS00MTExLTgyZTQtYzFkNWFkOTE3ZGQ1IiwidCI6IjA3ZWI2YmFlLWQ1MWEtNDBhYS1iZDMxLTIzMTE4NDdhM2I2ZiIsImMiOjJ9) to view the report.
+Please click [here](https://app.powerbi.com/view?r=eyJrIjoiNGRjYWJkMDAtNzk5Yy00ZGIyLTljODItZWU2M2QzMzRhYjM4IiwidCI6IjUxZWJmYzAwLTU1NmYtNDRiNi05YTE5LTdkNDRmZDg0NDBlNSJ9) to view the report.
 ![Power BI](PBI.jpg)
 
 
